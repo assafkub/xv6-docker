@@ -1,7 +1,11 @@
 # xv6-docker
 
+## Prerequisites
+* [Docker](https://docs.docker.com/install/) - Docker latest version
+
 ## Building
 Clone the repo
+build the image
 ```bash
 docker build -t xv6-docker .
 ```
